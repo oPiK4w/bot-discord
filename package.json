@@ -1,0 +1,12 @@
+{
+  "name": "SayBot",
+  "version": "0.1.0",
+  "description": "Bot multi-fonction",
+  "main": "main.js",
+  "repository": "https://github.com/oPiK4w/bot-discord.git",
+  "author": "Soutshy <soulaymane2004@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
