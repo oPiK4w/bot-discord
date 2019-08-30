@@ -1,5 +1,5 @@
 {
-  "name": "SayBot",
+  "name": "say",
   "version": "0.1.0",
   "description": "Bot multi-fonction",
   "main": "main.js",
